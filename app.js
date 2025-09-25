@@ -7,6 +7,10 @@ import chalk from 'chalk';
 import parseSubDivideStrings from './my_module/parseSubDivideStrings.js';
 
 
+console.log("\tOsazuwa Matthew Ogbebor");
+console.log("\tBD/2025/TC3/123");
+
+
 const rl = createInterface({ 
         input: stdin,
         output: stdout,
